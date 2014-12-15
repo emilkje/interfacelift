@@ -9,3 +9,7 @@
 * Improve events
 * Improve error handling
 * Improve query param construction
+* Implement promises instead of callbacks
+* Implement browser support
+* Implement build process with browserify pipe
+* Clean up the repo

@@ -1,0 +1,23 @@
+{
+  "name": "interfacelift",
+  "version": "0.0.1",
+  "description": "Interfacelift api node.js wrapper",
+  "main": "interfacelift.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "authors": [
+    {
+      "name": "Emil Kjelsrud",
+      "email": "emilkje@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "moment": "^2.7.0",
+    "progress-stream": "^0.5.0",
+    "request": "^2.39.0",
+    "underscore": "^1.6.0",
+    "unirest": "^0.2.7"
+  },
+  "license": "MIT"
+}
